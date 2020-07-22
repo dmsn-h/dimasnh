@@ -1,0 +1,40 @@
+.apa{
+	color: white;
+}
+.work-thumb a:hover{
+	color:black;
+	background-color: #002a7e;
+	text-decoration: underline;
+}
+.banner_area{
+	background-image: url(img/banner.jpg);
+}
+body{
+	background-color: #4582fd;
+}
+.gmb {
+	padding-top: 50px;
+	padding-left: 10%;
+}
+.kirim {
+	padding-left: 60%;
+	padding-top: 30px;
+}
+
+/* copyright */
+.cpy-right {
+    background: #1c1d21;
+}
+
+.cpy-right p {
+    letter-spacing: 1px;
+    font-size: 14px;
+}
+
+.cpy-right p a {
+    color: #eee;
+}
+
+.cpy-right p a:hover {
+    color: #ff514e;
+}
